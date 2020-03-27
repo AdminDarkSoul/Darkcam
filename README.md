@@ -1,4 +1,4 @@
-## Need requrements
+## Need requirements
 git
 wget
 ngrok
